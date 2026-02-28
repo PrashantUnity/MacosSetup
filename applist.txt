@@ -15,6 +15,7 @@ brew install --cask opera
 brew install --cask pika
 brew install --cask vlc
 brew install --cask zed
+brew install --cask flutter
 
 # Formulae
 brew install ca-certificates
@@ -34,3 +35,4 @@ brew install pcre2
 brew install powerlevel10k
 brew install zsh-syntax-highlighting
 brew install zsh-autosuggestions
+brew install rust
