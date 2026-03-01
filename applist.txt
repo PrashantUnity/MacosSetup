@@ -16,6 +16,9 @@ brew install --cask pika
 brew install --cask vlc
 brew install --cask zed
 brew install --cask flutter
+brew install --cask protonvpn
+brew install --cask obs
+brew install --cask launchos
 
 # Formulae
 brew install ca-certificates
@@ -36,3 +39,8 @@ brew install powerlevel10k
 brew install zsh-syntax-highlighting
 brew install zsh-autosuggestions
 brew install rust
+brew install jupyterlab
+brew install llvm
+brew install cling
+brew install coreutils
+brew install gopeed
